@@ -10,4 +10,6 @@ Grid sistemi üçün CSS yazın, ayrıca CSS faylında saytın tam dizaynını y
 Sayt hazırlayan zaman Navigation hissəyə ehtiyyac yoxdur. Simvolik olaraq navigation kimi Home, About və Contact yazarsız. 
 Template-in xəritə section-unu yazmayın.
 
+**Qeyd:** Container class-ı istifadə etməyi unutmayın.
+
 Uğurlar!
